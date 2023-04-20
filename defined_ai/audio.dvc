@@ -1,0 +1,5 @@
+outs:
+- md5: 5665f16550d1f5afa1b53beff5f20ed0.dir
+  size: 2445804
+  nfiles: 1
+  path: audio
